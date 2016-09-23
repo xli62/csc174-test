@@ -1,0 +1,29 @@
+Item	Price
+Food
+Apples (pack of 5)	£0.94
+Bananas (1kg)	£0.68
+Oranges (pack of 5)	£1.50
+Pineapple	£0.69
+Mango	£0.75
+Potatoes (2.5kg)	£1.98
+Tomatoes (1kg)	£1.99
+Onions (pack of 4)	£0.83
+Lettuce	£0.49
+Rice (1kg)	£1.48
+Pasta (1kg)	£1.00
+Bread (800g loaf)	£1.00
+Pizza (350g)	£2.60
+Beef Mince (500g)	£1.99
+Chicken Breast (pack of 2)	£3.00
+Salmon Fillets (pack of 2)	£3.23
+Pasta Sauce (500g jar)	£0.84
+Curry Sauce (500g jar)	£0.84
+Cheese (250g)	£1.74
+Butter (250g)	£0.92
+Plain Yoghurt (500g)	£0.94
+Drink
+Milk (568ml / 1pint)	£0.58
+Milk (2.27L / 4pints)	£0.89
+Fresh Orange Juice (1L)	£0.69
+Cola (2L)	£1.00
+Beer (pack of 4 bottles)
